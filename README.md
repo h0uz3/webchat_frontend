@@ -1,1 +1,1 @@
-# webchat_frontend
+Frontend for a simple web chat.
